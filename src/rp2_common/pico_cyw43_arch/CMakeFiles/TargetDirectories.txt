@@ -1,0 +1,2 @@
+/home/strychnine/PicoMemcard/pico-sdk/src/rp2_common/pico_cyw43_arch/CMakeFiles/edit_cache.dir
+/home/strychnine/PicoMemcard/pico-sdk/src/rp2_common/pico_cyw43_arch/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/home/strychnine/pico-sdk/tools/CMakeFiles/edit_cache.dir
+/home/strychnine/pico-sdk/tools/CMakeFiles/rebuild_cache.dir
